@@ -60,4 +60,5 @@ KNN	74%
 Best Model: Random Forest (highest accuracy)
 
 📬 Contact - Md. Rabbi Hasan | Data Scientist 📧arafatrabbi668@gmail.com | LinkedIn https://www.linkedin.com/in/md-rabbi-hasan-3249652b1
+Passionate about turning raw data into real-world insights through clear, compelling storytelling.
 
